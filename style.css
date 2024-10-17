@@ -1,0 +1,16 @@
+.kotak {
+
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border: 10px solid salmon;
+}
+
+.bulat {
+
+    width: 100px;
+    height: 100px;
+    background-color: lightpink;
+    border-radius: 200px;
+    margin-top: 20px;
+}
